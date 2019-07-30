@@ -1,8 +1,8 @@
-name = "Yinyang"
+name = "simple"
 license = "MIT"
-licenselink = "https://github.com/joway/hugo-theme-yinyang/blob/master/LICENSE"
-description = "Yinyang theme for Hugo."
-homepage = "https://github.com/joway/hugo-theme-yinyang"
+licenselink = "https://github.com/iberryful/simple/blob/master/LICENSE"
+description = "Sinple theme for Hugo."
+homepage = "https://github.com/iberryful/simple"
 tags = [
   "blog",
   "minimal",
@@ -15,6 +15,3 @@ tags = [
 features = ["blog"]
 min_version = "0.50"
 
-[author]
-  name = "Joway Wang"
-  homepage = "https://joway.io"
